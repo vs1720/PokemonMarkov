@@ -7,6 +7,6 @@ We are simulating a simplistic pokemon world! We assume pokemon in our world are
 
 Note that we do not consider stats, dual typings, moveset, or anything like that! This is a very simple model, though the dynamics that emerge are very interesting all the same. 
 
-See [https://github.com/vs1720/PokemonMarkov/blob/master/PokemonMarkov.ipynb](Notebook) for full walkthrough and graphs
+See [PokemonMarkov.ipynb](Notebook) for full walkthrough and graphs
 
 See [Flourish](https://public.flourish.studio/visualisation/1130963/) for an animated visualization
