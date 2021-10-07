@@ -1,5 +1,7 @@
 # PokemonMarkov
-A Markov Model Pokemon Population Dynamics. I simulate all pokemon types to see which would win out in the end. 
+A Markov Model Pokemon Population Dynamics. I simulate all pokemon types to see which would win out in the end. See how it plays out:
+
+![Simulation in Action](https://github.com/vs1720/PokemonMarkov/blob/master/PokemonPopulationDynamic.gif)
 
 ## Basic Description
 
@@ -9,4 +11,3 @@ Note that we do not consider stats, dual typings, moveset, or anything like that
 
 See [PokemonMarkov.ipynb](Notebook) for full walkthrough and graphs
 
-See [Flourish](https://public.flourish.studio/visualisation/1130963/) for an animated visualization
